@@ -33,8 +33,8 @@ ls -a       |       ls -a     |     (mostra os ocultos)
 
 ## Para configurar o Git Bahs é necessário utilizar os seguintes passo:
 
-Criar (no seu sistema operacinal ou no Git) e  Abrir uma pasta  de trabalho no Git bash.
-ex: cd /c/dio/atividade
+Criar (no seu sistema operacinal ou no Git) e  Abrir uma pasta  de trabalho no Git bash.  
+Ex: cd /c/dio/atividade
 
                                       \\No terminal Git Bash
 
@@ -77,12 +77,12 @@ Pronto os códigos de sua chave foi criado.
       ~/.ssh eval $(ssh-agent -s)
 como esse comando informa o local da chave
  
-Usando o cd e o caminho mostrado do local da pasta 
-ex: cd /c/Users/João/.ssh/
+Usando o cd e o caminho mostrado do local da pasta  
+Ex: cd /c/Users/João/.ssh/
 
-Usa o comando 
-cat id_ed25519.pub
-(aparece a chave)
+Usa o comando  
+cat id_ed25519.pub  
+(aparece a chave)  
 (esse chave que vai aparecer que será usada no Github, então você copia, "ssh" até o final do "email")
 
                                        \\Segue para o Github
