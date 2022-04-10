@@ -2,4 +2,5 @@
 Repositório criado para o Desafio de Projeto.
 
 ## Links Úteis
-[Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
+[Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)  
+[Potugol Studio](http://lite.acad.univali.br/portugol/)
