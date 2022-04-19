@@ -24,25 +24,25 @@
 
  
 
-​		**Exercício final** 
+​	 **Exercício final** 
 
-- **Qual foi o primeiro domínio criado? **
+- **Qual foi o primeiro domínio criado?**
 
 O primeiro nome de domínio registrado na história da internet completou 28 anos. O [Symbolics.com](http://symbolics.com/) continua no ar até hoje e ostenta o título de domínio mais velho da web. O site foi registrado no dia 15 de março de 1985. Em anos de internet, o Symbolics.com pode ser considerado um verdadeiro Matusalém. 
 
 [Link da matéria completa](https://canaltech.com.br/internet/Ha-28-anos-primeiro-dominio-da-internet-era-cadastrado/#:~:text=Na%20%C3%BAltima%20sexta%2Dfeira%2015,15%20de%20mar%C3%A7o%20de%201985 ) 
 
-- **E o primeiro blog? **
+- **E o primeiro blog?**
 
 Coincidência ou não, o primeiro blog da internet foi criado por um brasileiro. Em 1994, o cientista do MIT Media Lab, Claudio Pinhanez, criou um site chamado “*Open Diary*” — e isso explica muita coisa sobre a nossa percepção atual desse canal — com o objetivo de contar um pouco sobre a sua vida. 
 
-- **Qual foi a primeira compra feita pela Internet? **
+- **Qual foi a primeira compra feita pela Internet?**
 
 A primeira compra online teria sido realizada em 1994. Apesar de a **Pizza Hut** ter se declarado a responsável pela primeira transação online e, geralmente, levar o crédito, o vídeo afirma que a primeira compra foi feita no site **NetMarket**, de Dan Kohn. 
 
 O produto comprado foi um **CD do artista inglês Sting**, "Ten Summoner's Tales". O comprador foi um amigo de Kohn na Filadélfia, que pagou US$ 12,48 mais o frete com seu cartão de crédito em uma transação encriptada. 
 
-- **Qual o site mais artigo em atividade? **
+- **Qual o site mais artigo em atividade?**
 
 E o mesmo do primeiro domínio registrado da história o Symbolics.com. 
 
@@ -489,3 +489,7 @@ Transmissão de mensagens multimídia (áudio, vídeo) por meio de uma espécie 
 - Controle de versão 
 - Design Adaptativo/responsivo 
 - Favicon (icon da pág.) 
+
+### **Exercício final**
+
+	Construa um site utilizando alguma biblioteca visual JQuery (como Accordion). 
