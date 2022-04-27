@@ -23,7 +23,7 @@
 
 ​		primeira linha do documento deve ser o <!DOCTYPE html>, apesar de parecer um elemento HTML ela apenas diz ao navegador que ele está lidando com um arquivo do tipo HTML5. Os elementos HTML vêm logo abaixo. 
 
-![Exemplo de Elemento HTML](C:\Users\Izabela\Desktop\Victor\Imagens\Captura de Tela (24).png)
+![Exemplo de Elemento HTML](https://raw.githubusercontent.com/Afrontoso/dio-desafio-github-primeiro-repositorio/main/M%C3%B3dulo%202/Introdu%C3%A7%C3%A3o%20a%20cria%C3%A7%C3%A3o%20de%20websites%20com%20HTML5%20e%20CSS3/img/Captura%20de%20Tela%20(24).png)
 
 ​		**\<html>** 
 
@@ -79,11 +79,11 @@
 
 ​		**\<footer>** 
 
-​		Esse elemento representa o rodapé do conteúdo ou de parte dele, pois ele é aceito dentro de vários elementos, como article e section e até do body. Exemplos de conteúdo de um <footer> são informações de autor e *links* relacionados. 
+​		Esse elemento representa o rodapé do conteúdo ou de parte dele, pois ele é aceito dentro de vários elementos, como article e section e até do body. Exemplos de conteúdo de um **\<footer>** são informações de autor e *links* relacionados. 
 
 ​		**\<h1>**-**\<h6>** 
 
-​		Eles não foram criados na versão 5 do HTML e nem são específicos para semântica, mas servem para esse propósito. São utilizados para marcar a importância dos títulos, sendo <h1> o mais importante e <h6> o menos. Uma dica: use apenas um <h1> por página, pois ele representa o objetivo da sua página. 
+​		Eles não foram criados na versão 5 do HTML e nem são específicos para semântica, mas servem para esse propósito. São utilizados para marcar a importância dos títulos, sendo **\<h1>** o mais importante e **\<h6>** o menos. Uma dica: use apenas um **\<h1>** por página, pois ele representa o objetivo da sua página. 
 
  
 
@@ -153,7 +153,7 @@
 
 ​		O *a:hover* do exemplo significa que a âncora também terá essa aparência quando o usuário passar o mouse por cima de um *hyperlink*. 
 
-![ilustração](C:\Users\Izabela\Desktop\Victor\Imagens\Sem título1.png)
+![ilustração](https://raw.githubusercontent.com/Afrontoso/dio-desafio-github-primeiro-repositorio/main/M%C3%B3dulo%202/Introdu%C3%A7%C3%A3o%20a%20cria%C3%A7%C3%A3o%20de%20websites%20com%20HTML5%20e%20CSS3/img/Sem%20t%C3%ADtulo1.png)
 
 ​		**ID X Classe** 
 
@@ -253,7 +253,7 @@
 }
 ```
 
-![ilustração](C:\Users\Izabela\Desktop\Victor\Imagens\Sem título.png)
+![ilustração2](https://raw.githubusercontent.com/Afrontoso/dio-desafio-github-primeiro-repositorio/main/M%C3%B3dulo%202/Introdu%C3%A7%C3%A3o%20a%20cria%C3%A7%C3%A3o%20de%20websites%20com%20HTML5%20e%20CSS3/img/Sem%20t%C3%ADtulo.png)
 
 ​		Vimos que a propriedade *border* pode ter 3 valores: a largura, a cor e o estilo, mas existem algumas particularidades nisso. 
 
